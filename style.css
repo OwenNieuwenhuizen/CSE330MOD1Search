@@ -9,3 +9,11 @@ button {
 button:hover {
     opacity: 70%;
 }
+.regrade {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: dimgrey;
+    color: azure;
+    padding:3%;
+    border-radius: 20%;
+}
